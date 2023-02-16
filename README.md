@@ -26,17 +26,6 @@ Web and mobile application to keep track of daily habits. Project developed duri
 | Tool for transforming CSS with JavaScript | [POST CSS](https://postcss.org/) |  
 | API development ecosystem (Testing) | [INSOMNIA](https://insomnia.rest/) | 
 
-## Running the project
-
-1. Set the development environment at you local computer
-2. Clone the repository
-3. git clone the repo
-4. Enter the project directory
-5. Run each ambient (environment should be set up)
- * server: npm run dev
- * web: npm run dev
- * mobile: npx expo start
-
 ## info
 
 This project was my first experience with the majority of the technologies listed above, thanks to RocketSeat Education.
