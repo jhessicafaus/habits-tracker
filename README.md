@@ -16,7 +16,7 @@ Web and mobile application to keep track of daily habits. Project developed duri
 | NodeJS web framework (Backend) | [FASTIFY](https://www.fastify.io/) |  
 | Node.js and TypeScript ORM (Backend, Database) | [PRISMA](https://www.prisma.io/) | 
 | Database (Backend) | [SQLITE](https://www.sqlite.org/index.html) | 
-| Promise based HTTP client - browser & Node.js | [SQLITE](https://www.sqlite.org/index.html) | 
+| Promise based HTTP client - browser & Node.js | [AXIOS](https://axios-http.com/) | 
 | Open source platform (Mobile) | [EXPO BARE WORKFLOW](https://expo.dev/) |  
 | Navigation between pages (Mobile) | [REACT NAVIGATION](https://reactnavigation.org/) | 
 | Graphic components (Frontend, Mobile) | [PHOSPHOR ICONS](https://phosphoricons.com/) |  
