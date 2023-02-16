@@ -6,14 +6,14 @@ import { appRoutes } from "./routes"
 const app = Fastify()
 
 app.register(cors, {
-    origin: true,
+    // origin: true,
 })
 app.register(appRoutes)
 app.register(notificationRoutes)
 
 app.listen({
     port: 3333,
-    host: '0.0.0.0',
+   // host: '0.0.0.0', for mobile
 }).then((url) => {
-    console.log(`HTTP Server running on ${url}`)
+    console.log(`HTTP Server running!`)
 })
