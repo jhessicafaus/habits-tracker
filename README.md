@@ -1,6 +1,6 @@
 # habits-tracker
 
-Web and mobile application to keep track of daily habits. Project developed during the event "Next Level Week - SetUp", promoted by RocketSeat Education.
+Web and mobile application to keep track of daily habits. 
 
 ## Technologies
 
