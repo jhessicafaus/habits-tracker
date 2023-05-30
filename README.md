@@ -28,8 +28,7 @@ Web and mobile application to keep track of daily habits.
 
 ## info
 
-This project was my first experience with the majority of the technologies listed above, thanks to RocketSeat Education.
-Experienced some issues, specially with Expo, solved throug reasearch.
+This project was my first experience with the majority of the technologies listed above.
 New features ideas: implement deleting routes, so the user can delete habits; user authentication.
 
 
